@@ -12,7 +12,7 @@ github_repo: "https://github.com/Asuradayuci/Asuradayuci.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # 侧边栏.
 sidebar-about-description: "群山之巅，上有武神!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/ycy.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
